@@ -206,19 +206,16 @@
     vertical-align: top;
 }
 
-.footer-outer
+.footer
 {
+    padding-right: 15px;
+    padding-left: 21px;
+    font-size: 14px;
+
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 537px;
     border-top: 1px solid #c9c9c9;
-}
-
-.footer-inner
-{
-    margin-right: 15px;
-    margin-left: 21px;
-    font-size: 14px;
 }
 
 .copyright
